@@ -22,10 +22,8 @@ form {
 
 fieldset {
   border: none;
-  padding-top: 2rem;;
-  padding-bottom: 2rem;
-  padding-right: 0;
-  padding-left: 0;
+  border-bottom: 3px solid #3b3b4f;
+  padding: 2rem 0;
 }
 
 label {
