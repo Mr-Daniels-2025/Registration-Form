@@ -34,3 +34,8 @@ label {
   display: block;
   margin: 0.5rem 0;
 }
+
+input, textarea, select {
+  width: 100%; /* Make elements take up full width of parent */
+  margin: 10px 0 0 0; /* Add 10px margin to the top, 0 margin to other sides */
+}
